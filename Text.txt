@@ -1,0 +1,10 @@
+rogram Hello_world;
+uses CRT;
+var Name; string;
+Begin
+	clrScr;
+	write ('Миша');
+	Readln (Name);
+	WriteLn ('Привет, ' , Name, '!')
+	Readln;
+end.
